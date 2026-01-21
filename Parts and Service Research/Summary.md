@@ -29,3 +29,7 @@ Vlans
 - Server Vlan
     - Mini PC
     - Running server
+
+## Parts History
+
+Currently I am going to purchase four i5 Dell Optiplex Micro PCs with 8Gb RAM and 256 Gb NVME on facebook marketplace. I hope I do not get scammed for 280 bucks.
