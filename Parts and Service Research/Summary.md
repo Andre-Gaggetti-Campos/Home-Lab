@@ -32,4 +32,10 @@ Vlans
 
 ## Parts History
 
-Currently I am going to purchase four i5 Dell Optiplex Micro PCs with 8Gb RAM and 256 Gb NVME on facebook marketplace. I hope I do not get scammed for 280 bucks.
+1/22/2026
+
+Currently I am going to purchase four i3 Dell Optiplex Micro PCs with 8Gb RAM and 256 Gb NVME on facebook marketplace. I hope I do not get scammed for 280 bucks.
+
+1/23/2026
+
+I did not get scammed. That's a relief. I know own five, he gave me an extra, Optiplexs with some additional 256Gb NVME drives. One of them refuses to boot an OS, but I'll figure it out.

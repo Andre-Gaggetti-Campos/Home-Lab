@@ -9,6 +9,3 @@ Virtual Box
 Proxmox VM
 |
 Server, Client, Detection/Logging, and Attacker VM
-
-## Notes
-
