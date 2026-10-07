@@ -38,4 +38,4 @@ Currently I am going to purchase four i3 Dell Optiplex Micro PCs with 8Gb RAM an
 
 1/23/2026
 
-I did not get scammed. That's a relief. I know own five, he gave me an extra, Optiplexs with some additional 256Gb NVME drives. One of them refuses to boot an OS, but I'll figure it out.
+I did not get scammed. That's a relief. I now own five, he gave me an extra, Optiplexs with some additional 256Gb NVME drives. One of them refuses to boot an OS, but I'll figure it out.
