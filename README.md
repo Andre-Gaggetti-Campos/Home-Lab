@@ -18,4 +18,4 @@ However, due to my completely self-imposed restrictions above, I'll likely have 
 
 ### [Parts and Service Research](/Parts%20and%20Service%20Research/Summary.md)
 
-### Labs
+### [Labs](/Labs/Labs.md)
